@@ -3,4 +3,37 @@
 ## 🔭 Visits on my Profile
 ![Visitor Count](https://profile-counter.glitch.me/Capitan9709/count.svg)
 
-
+## 💻 Technologies that I use:
+<table>
+  <tr>
+    <td align="center" width="96">
+        <img src="./Icons/javascript.svg" width="48" height="48" alt="JavaScrip" />
+    </td>
+    <td align="center" width="96">
+        <img src="./Icons/php.svg" width="48" height="48" alt="PHP" />
+    </td>
+    <td align="center" width="96">
+        <img src="./Icons/python.svg" width="48" height="48" alt="Python" />
+    </td>
+    <td align="center" width="96">
+        <img src="./Icons/mysql.svg" width="48" height="48" alt="MySql" />
+    </td>
+    <td align="center" width="96">
+        <img src="./Icons/html5.svg" width="48" height="48" alt="HTML" />
+    </td>
+    <td align="center" width="96">
+        <img src="./Icons/css3.svg" width="48" height="48" alt="CSS" />
+    </td>
+    <td align="center" width="96">
+        <img src="./Icons/ubuntu.svg" width="48" height="48" alt="Ubuntu" />
+    </td>
+    <td align="center" width="96">
+        <img src="./Icons/windows.svg" width="48" height="48" alt="Windows" />
+    </td>
+    <td align="center" width="96">
+        <img src="./Icons/git.svg" width="48" height="48" alt="Git" />
+    </td>
+  </tr>
+ </table>
+ 
+ </br></br>
