@@ -38,14 +38,4 @@
  
  </br></br>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://user-images.githubusercontent.com/86807831/196890400-63a4ca7f-cec3-48ce-b99d-4226c78a53cd.gif">
-    </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/86807831/196888535-7b841b41-4fb9-4c25-8fcc-6039d71c5358.gif">
-    </td>
-  </tr>
-</table>
-
+<img src="https://user-images.githubusercontent.com/86807831/196890400-63a4ca7f-cec3-48ce-b99d-4226c78a53cd.gif">
