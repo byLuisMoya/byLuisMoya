@@ -59,6 +59,3 @@
   </tr>
  </table>
  
- </br></br>
-
-<img src="https://user-images.githubusercontent.com/86807831/196890400-63a4ca7f-cec3-48ce-b99d-4226c78a53cd.gif">
