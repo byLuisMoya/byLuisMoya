@@ -4,58 +4,41 @@
 ![Visitor Count](https://profile-counter.glitch.me/Capitan9709/count.svg)
 
 ## 💻 Technologies that I use:
-<table>
-  <tr>
-    <td align="center" width="96">
-        <img src="./Icons/javascript.svg" width="48" height="48" alt="JavaScrip" />
-    </td>
-    <td align="center" width="96">
-        <img src="./Icons/php.svg" width="48" height="48" alt="PHP" />
-    </td>
-    <td align="center" width="96">
-        <img src="./Icons/python.svg" width="48" height="48" alt="Python" />
-    </td>
-    <td align="center" width="96">
-        <img src="./Icons/mysql.svg" width="48" height="48" alt="MySql" />
-    </td>
-    <td align="center" width="96">
-        <img src="./Icons/html5.svg" width="48" height="48" alt="HTML" />
-    </td>
-    <td align="center" width="96">
-        <img src="./Icons/css3.svg" width="48" height="48" alt="CSS" />
-    </td>
-    <td align="center" width="96">
-        <img src="./Icons/ubuntu.svg" width="48" height="48" alt="Ubuntu" />
-    </td>
-    <td align="center" width="96">
-        <img src="./Icons/windows.svg" width="48" height="48" alt="Windows" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="./Icons/git.svg" width="48" height="48" alt="Git" />
-    </td>
-    <td align="center" width="96">
-        <img src="./Icons/bootstrap.svg" width="48" height="48" alt="Bootstrap 5" />
-    </td>
-    <td align="center" width="96">
-        <img src="./Icons/SASS.svg" width="48" height="48" alt="SASS" />
-    </td>
-    <td align="center" width="96">
-        <img src="./Icons/GULP.svg" width="48" height="48" alt="GULP" />
-    </td>
-    <td align="center" width="96">
-        <img src="./Icons/vueJS.svg" width="48" height="48" alt="vueJS" />
-    </td>
-    <td align="center" width="96">
-        <img src="./Icons/nodeJS.svg" width="48" height="48" alt="nodeJS" />
-    </td>
-    <td align="center" width="96">
-        <img src="./Icons/angular.svg" width="48" height="48" alt="angular" />
-    </td>
-    <td align="center" width="96">
-        <img src="./Icons/react.svg" width="48" height="48" alt="react" />
-    </td>
-  </tr>
- </table>
- 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" height="40" alt="gulp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+</div>
+
+## 📊 Some Stats:
+ <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=byLuisMoya&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
