@@ -1,8 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=4BF713&vCenter=true&random=false&width=435&lines=I+am+Web+Developer;I+am+a+Car+Fanatic)](https://git.io/typing-svg)
 
-## 🔭 Visits on my Profile
-![Visitor Count](https://profile-counter.glitch.me/Capitan9709/count.svg)
-
 ## 💻 Technologies that I use:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
